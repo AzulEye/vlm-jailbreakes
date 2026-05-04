@@ -1,0 +1,124 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Results and outputs
+results/
+figures/
+*.log
+
+# API keys and secrets
+.env
+*.key
+
+# Test images (optional - uncomment if you want to track images)
+# images/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local tooling / scratch space
+.mplconfig/
+tmp_hades/
+
+attack_images/*
+.mars/*
+.secret
+MARS4-Gandelsman.code-workspace
+VLM_Attacks/*
+results/*
+tmp/*
+data/*
+!data/harmbench.json
+!data/harmbench_behaviors.csv
+!data/harmbench_neutralized.csv
+!data/concepts.csv
+data_generated/*
+data_debug/*
+results_debug/*
+results/
+results_*
+data_debug/*
+wip/*
+CMC_backup/
+_baselines/
+MARS4-Gandelsman/
+data_/
+/data_generation/
+data_icml/
+tables/
+downloaded_judge_results/
+plots/
+plots_/
+figures__/
+appendix_figures/
+
+# Large binaries and docs
+*.tar.gz
+*.zip
+*.pdf
+*.docx
+*.png
+*.jpg
+*.jpeg
+
+# Throwaway scripts at root
+tmp.sh
+fix.sh
+run.sh
+run_text.sh
+/scripts/
+
+# Misc untracked
+.venv_plot/
+client_secrets.json*
+upload_to_gdrive.py
+compute_reviewer_statistics.py
+generate_reviewer_md.py
+reviewer_statistics.md
+transcript.md
+
+# Debug and temp files
+*debug*
+*temp*
+
+# General outputs
+outputs/
+
+# OS files
+*.DS_Store

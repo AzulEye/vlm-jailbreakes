@@ -1,0 +1,31 @@
+{
+  "data_root": "./data/textual_replacement",
+  "results_root": "./results/attacks/textual_replacement",
+  "harmbench_csv": "../../data/harmbench_neutralized.csv",
+  "models": [
+    {
+      "provider": "openrouter",
+      "model": "anthropic/claude-haiku-4.5"
+    },
+    {
+      "provider": "openrouter",
+      "model": "google/gemini-3-flash-preview"
+    },
+    {
+      "provider": "openrouter",
+      "model": "openai/gpt-5.2"
+    },
+    {
+      "provider": "openrouter",
+      "model": "qwen/qwen3-vl-32b-instruct"
+    }
+  ],
+  "max_attempts": 5,
+  "slot_replacements": {
+    "X1": "banana",
+    "X2": "carrot",
+    "X3": "water bottle",
+    "X4": "broccoli"
+  },
+  "max_texts_per_slot": 15
+}

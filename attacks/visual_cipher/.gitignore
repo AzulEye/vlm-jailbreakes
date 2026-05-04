@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# Generated artifacts
+outputs/
+plots/
+decode_accuracy.json
+decode_accuracy.png
+decode_accuracy_overlap.png

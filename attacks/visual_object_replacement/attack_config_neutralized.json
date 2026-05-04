@@ -1,0 +1,20 @@
+{
+  "data_root": "./data/visual_replacement",
+  "results_root": "./results/attacks/visual_object_replacement",
+  "harmbench_csv": "../../data/harmbench_neutralized.csv",
+  "models": [
+    {
+      "provider": "openrouter",
+      "model": "google/gemini-3.1-pro-preview"
+    }
+  ],
+  "max_attempts": 5,
+  "slot_replacements": {
+    "X1": "banana",
+    "X2": "carrot",
+    "X3": "water bottle",
+    "X4": "broccoli"
+  },
+  "max_images_per_slot": 0,
+  "start_image_index": 0
+}

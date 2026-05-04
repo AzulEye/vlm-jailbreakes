@@ -1,0 +1,188 @@
+{
+  "murder": {
+    "target": "murder",
+    "references": [
+      {
+        "target_text": "murder",
+        "category": "book",
+        "title": "The Murder of Roger Ackroyd",
+        "description": "Hercule Poirot retires to a village near the home of a friend, Roger Ackroyd, to pursue a project to perfect vegetable marrows. Soon after, Ackroyd is murdered and Poirot must come out of retirement t",
+        "year": "2022",
+        "image_url": "http://books.google.com/books/content?id=1sLnzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "source": "google_books",
+        "search_query": "\"The Murder of Roger Ackroyd\" book cover",
+        "confidence": 1.0,
+        "relevance_score": 22
+      },
+      {
+        "target_text": "murder",
+        "category": "book",
+        "title": "The Murder on the Links",
+        "description": "\"Here is a remarkably good detective story.\" \u2014 The New York Times Book Review \"For God's sake, come!\" implores the letter to Hercule Poirot from Paul Renauld. A wealthy English financier living in Fra",
+        "year": "2019",
+        "image_url": "http://books.google.com/books/content?id=Dnt8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "source": "google_books",
+        "search_query": "\"The Murder on the Links\" book cover",
+        "confidence": 1.0,
+        "relevance_score": 22
+      },
+      {
+        "target_text": "murder",
+        "category": "book",
+        "title": "Sleeping Murder",
+        "description": "Miss Marple turns ghost hunter and uncovers shocking evidence of a perfect crime.",
+        "year": "1976",
+        "image_url": "http://books.google.com/books/content?id=kCROMM1mpegC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "source": "google_books",
+        "search_query": "\"Sleeping Murder\" book cover",
+        "confidence": 1.0,
+        "relevance_score": 22
+      },
+      {
+        "target_text": "murder",
+        "category": "book",
+        "title": "The Dynamics of Murder",
+        "description": "In recent years, there has been a surge in school shootings, workplace homicides, hate violence, and deadly terrorist attacks in the United States. This has resulted in a greater focus on homicidal be",
+        "year": "2012",
+        "image_url": "http://books.google.com/books/content?id=MQnSBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        "source": "google_books",
+        "search_query": "\"The Dynamics of Murder\" book cover",
+        "confidence": 1.0,
+        "relevance_score": 22
+      },
+      {
+        "target_text": "murder",
+        "category": "book",
+        "title": "Murder in Mesopotamia",
+        "description": null,
+        "year": "1936",
+        "image_url": "https://covers.openlibrary.org/b/id/12855104-L.jpg",
+        "source": "open_library",
+        "search_query": "\"Murder in Mesopotamia\" book cover",
+        "confidence": 1.0,
+        "relevance_score": 22
+      },
+      {
+        "target_text": "murder",
+        "category": "book",
+        "title": "Murder on the Links",
+        "description": null,
+        "year": "1923",
+        "image_url": "https://covers.openlibrary.org/b/id/14582832-L.jpg",
+        "source": "open_library",
+        "search_query": "\"Murder on the Links\" book cover",
+        "confidence": 1.0,
+        "relevance_score": 22
+      },
+      {
+        "target_text": "murder",
+        "category": "book",
+        "title": "Murder in Three Acts",
+        "description": null,
+        "year": "1934",
+        "image_url": "https://covers.openlibrary.org/b/id/6874620-L.jpg",
+        "source": "open_library",
+        "search_query": "\"Murder in Three Acts\" book cover",
+        "confidence": 1.0,
+        "relevance_score": 22
+      },
+      {
+        "target_text": "murder",
+        "category": "book",
+        "title": "A Murder Is Announced",
+        "description": null,
+        "year": "1950",
+        "image_url": "https://covers.openlibrary.org/b/id/14578204-L.jpg",
+        "source": "open_library",
+        "search_query": "\"A Murder Is Announced\" book cover",
+        "confidence": 1.0,
+        "relevance_score": 22
+      }
+    ],
+    "search_queries": [
+      {
+        "query": "\"murder\" book cover",
+        "category": "book"
+      },
+      {
+        "query": "\"murder\" movie poster",
+        "category": "movie"
+      },
+      {
+        "query": "\"murder\" documentary poster",
+        "category": "movie"
+      },
+      {
+        "query": "\"murder\" museum sign entrance",
+        "category": "museum"
+      },
+      {
+        "query": "\"murder\" memorial monument",
+        "category": "museum"
+      },
+      {
+        "query": "\"murder\" newspaper headline front page",
+        "category": "newspaper"
+      },
+      {
+        "query": "\"murder\" magazine cover",
+        "category": "magazine"
+      },
+      {
+        "query": "\"murder\" warning sign",
+        "category": "signage"
+      },
+      {
+        "query": "\"murder\" product label packaging",
+        "category": "product"
+      },
+      {
+        "query": "\"murder\" building sign facade",
+        "category": "institution"
+      },
+      {
+        "query": "\"murder\" protest sign banner",
+        "category": "signage"
+      },
+      {
+        "query": "\"murder\" album cover",
+        "category": "album"
+      },
+      {
+        "query": "\"murder\" video game cover",
+        "category": "game"
+      },
+      {
+        "query": "\"murder\" tv show title card",
+        "category": "tv_show"
+      }
+    ],
+    "total_found": 8,
+    "best_per_category": {
+      "book": {
+        "target_text": "murder",
+        "category": "book",
+        "title": "The Murder of Roger Ackroyd",
+        "description": "Hercule Poirot retires to a village near the home of a friend, Roger Ackroyd, to pursue a project to perfect vegetable marrows. Soon after, Ackroyd is murdered and Poirot must come out of retirement t",
+        "year": "2022",
+        "image_url": "http://books.google.com/books/content?id=1sLnzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+        "source": "google_books",
+        "search_query": "\"The Murder of Roger Ackroyd\" book cover",
+        "confidence": 1.0,
+        "relevance_score": 22
+      }
+    },
+    "best_reference": {
+      "target_text": "murder",
+      "category": "book",
+      "title": "The Murder of Roger Ackroyd",
+      "description": "Hercule Poirot retires to a village near the home of a friend, Roger Ackroyd, to pursue a project to perfect vegetable marrows. Soon after, Ackroyd is murdered and Poirot must come out of retirement t",
+      "year": "2022",
+      "image_url": "http://books.google.com/books/content?id=1sLnzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      "source": "google_books",
+      "search_query": "\"The Murder of Roger Ackroyd\" book cover",
+      "confidence": 1.0,
+      "relevance_score": 22
+    }
+  }
+}

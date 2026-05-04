@@ -1,0 +1,32 @@
+{
+  "data_root": "./data/visual_text_replacement_final",
+  "results_root": "./results/attacks/visual_text_replacement_final_arxiv",
+  "harmbench_csv": "./attacks/visual_text_replacement/data_generation/harmbench_neutralized.csv",
+  "models": [
+    {
+      "provider": "openrouter",
+      "model": "qwen/qwen3-vl-235b-a22b-instruct"
+    },
+    {
+      "provider": "openrouter",
+      "model": "qwen/qwen3-vl-32b-instruct"
+    },
+    {
+      "provider": "openrouter",
+      "model": "google/gemini-3-flash-preview"
+    },
+    {
+      "provider": "openrouter",
+      "model": "anthropic/claude-haiku-4.5"
+    },
+    {
+      "provider": "openrouter",
+      "model": "openai/gpt-5.2"
+    },
+    {
+      "provider": "openrouter",
+      "model": "google/gemini-3.1-pro-preview"
+    }
+  ],
+  "max_attempts": 5
+}

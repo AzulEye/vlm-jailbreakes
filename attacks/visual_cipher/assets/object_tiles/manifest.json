@@ -1,0 +1,706 @@
+{
+  "model": "google/gemini-2.5-flash-image",
+  "gen_size": 1024,
+  "output_size": 128,
+  "max_tokens": 16,
+  "temperature": 0.2,
+  "image_config": {
+    "size": "1024x1024"
+  },
+  "seed_base": 0,
+  "images": [
+    {
+      "index": 0,
+      "object": "A smiling red apple with a tiny heart sticker",
+      "prompt": "A smiling red apple with a tiny heart sticker on a plain background, centered, no text",
+      "file": "000_a_smiling_red_apple_with_a_tiny_heart_sticker.png",
+      "seed": 0
+    },
+    {
+      "index": 1,
+      "object": "A sunny bunch of ripe bananas tied with a ribbon",
+      "prompt": "A sunny bunch of ripe bananas tied with a ribbon on a plain background, centered, no text",
+      "file": "001_a_sunny_bunch_of_ripe_bananas_tied_with_a_ribbon.png",
+      "seed": 1
+    },
+    {
+      "index": 2,
+      "object": "A bright orange with a happy face drawn in marker",
+      "prompt": "A bright orange with a happy face drawn in marker on a plain background, centered, no text",
+      "file": "002_a_bright_orange_with_a_happy_face_drawn_in_marker.png",
+      "seed": 2
+    },
+    {
+      "index": 3,
+      "object": "A bowl of fresh strawberries with a small smiley tag",
+      "prompt": "A bowl of fresh strawberries with a small smiley tag on a plain background, centered, no text",
+      "file": "003_a_bowl_of_fresh_strawberries_with_a_small_smiley_tag.png",
+      "seed": 3
+    },
+    {
+      "index": 4,
+      "object": "A cluster of grapes with a cheerful pastel label",
+      "prompt": "A cluster of grapes with a cheerful pastel label on a plain background, centered, no text",
+      "file": "004_a_cluster_of_grapes_with_a_cheerful_pastel_label.png",
+      "seed": 4
+    },
+    {
+      "index": 5,
+      "object": "A juicy pear with a cute polka dot bow",
+      "prompt": "A juicy pear with a cute polka dot bow on a plain background, centered, no text",
+      "file": "005_a_juicy_pear_with_a_cute_polka_dot_bow.png",
+      "seed": 5
+    },
+    {
+      "index": 6,
+      "object": "A peach with a soft pink glow and a smiley note",
+      "prompt": "A peach with a soft pink glow and a smiley note on a plain background, centered, no text",
+      "file": "006_a_peach_with_a_soft_pink_glow_and_a_smiley_note.png",
+      "seed": 6
+    },
+    {
+      "index": 7,
+      "object": "A pineapple wearing a tiny party hat",
+      "prompt": "A pineapple wearing a tiny party hat on a plain background, centered, no text",
+      "file": "007_a_pineapple_wearing_a_tiny_party_hat.png",
+      "seed": 7
+    },
+    {
+      "index": 8,
+      "object": "A slice of watermelon with a friendly face",
+      "prompt": "A slice of watermelon with a friendly face on a plain background, centered, no text",
+      "file": "008_a_slice_of_watermelon_with_a_friendly_face.png",
+      "seed": 8
+    },
+    {
+      "index": 9,
+      "object": "A lemon with a big cheerful grin sticker",
+      "prompt": "A lemon with a big cheerful grin sticker on a plain background, centered, no text",
+      "file": "009_a_lemon_with_a_big_cheerful_grin_sticker.png",
+      "seed": 9
+    },
+    {
+      "index": 10,
+      "object": "A lime with a tiny green smile button",
+      "prompt": "A lime with a tiny green smile button on a plain background, centered, no text",
+      "file": "010_a_lime_with_a_tiny_green_smile_button.png",
+      "seed": 10
+    },
+    {
+      "index": 11,
+      "object": "A cherry pair with a smiling ribbon",
+      "prompt": "A cherry pair with a smiling ribbon on a plain background, centered, no text",
+      "file": "011_a_cherry_pair_with_a_smiling_ribbon.png",
+      "seed": 11
+    },
+    {
+      "index": 12,
+      "object": "A handful of blueberries in a happy paper cup",
+      "prompt": "A handful of blueberries in a happy paper cup on a plain background, centered, no text",
+      "file": "012_a_handful_of_blueberries_in_a_happy_paper_cup.png",
+      "seed": 12
+    },
+    {
+      "index": 13,
+      "object": "A raspberry with a tiny heart tag",
+      "prompt": "A raspberry with a tiny heart tag on a plain background, centered, no text",
+      "file": "013_a_raspberry_with_a_tiny_heart_tag.png",
+      "seed": 13
+    },
+    {
+      "index": 14,
+      "object": "A mango with a cheerful sun sticker",
+      "prompt": "A mango with a cheerful sun sticker on a plain background, centered, no text",
+      "file": "014_a_mango_with_a_cheerful_sun_sticker.png",
+      "seed": 14
+    },
+    {
+      "index": 15,
+      "object": "A kiwi cut in half like a smiling face",
+      "prompt": "A kiwi cut in half like a smiling face on a plain background, centered, no text",
+      "file": "015_a_kiwi_cut_in_half_like_a_smiling_face.png",
+      "seed": 15
+    },
+    {
+      "index": 16,
+      "object": "A tomato with a happy kitchen doodle",
+      "prompt": "A tomato with a happy kitchen doodle on a plain background, centered, no text",
+      "file": "016_a_tomato_with_a_happy_kitchen_doodle.png",
+      "seed": 16
+    },
+    {
+      "index": 17,
+      "object": "A carrot with a friendly smile sticker",
+      "prompt": "A carrot with a friendly smile sticker on a plain background, centered, no text",
+      "file": "017_a_carrot_with_a_friendly_smile_sticker.png",
+      "seed": 17
+    },
+    {
+      "index": 18,
+      "object": "A broccoli floret shaped like a little tree with a smile",
+      "prompt": "A broccoli floret shaped like a little tree with a smile on a plain background, centered, no text",
+      "file": "018_a_broccoli_floret_shaped_like_a_little_tree_with_a_smile.png",
+      "seed": 18
+    },
+    {
+      "index": 19,
+      "object": "A cucumber with a cheerful striped band",
+      "prompt": "A cucumber with a cheerful striped band on a plain background, centered, no text",
+      "file": "019_a_cucumber_with_a_cheerful_striped_band.png",
+      "seed": 19
+    },
+    {
+      "index": 20,
+      "object": "A bell pepper with a bright smiley magnet",
+      "prompt": "A bell pepper with a bright smiley magnet on a plain background, centered, no text",
+      "file": "020_a_bell_pepper_with_a_bright_smiley_magnet.png",
+      "seed": 20
+    },
+    {
+      "index": 21,
+      "object": "A friendly eggplant with a tiny bow tie",
+      "prompt": "A friendly eggplant with a tiny bow tie on a plain background, centered, no text",
+      "file": "021_a_friendly_eggplant_with_a_tiny_bow_tie.png",
+      "seed": 21
+    },
+    {
+      "index": 22,
+      "object": "A potato with a smiling face drawn on it",
+      "prompt": "A potato with a smiling face drawn on it on a plain background, centered, no text",
+      "file": "022_a_potato_with_a_smiling_face_drawn_on_it.png",
+      "seed": 22
+    },
+    {
+      "index": 23,
+      "object": "An onion with a happy label and a bow",
+      "prompt": "An onion with a happy label and a bow on a plain background, centered, no text",
+      "file": "023_an_onion_with_a_happy_label_and_a_bow.png",
+      "seed": 23
+    },
+    {
+      "index": 24,
+      "object": "A garlic bulb with a cute grin sticker",
+      "prompt": "A garlic bulb with a cute grin sticker on a plain background, centered, no text",
+      "file": "024_a_garlic_bulb_with_a_cute_grin_sticker.png",
+      "seed": 24
+    },
+    {
+      "index": 25,
+      "object": "A mushroom with a cheerful polka dot cap",
+      "prompt": "A mushroom with a cheerful polka dot cap on a plain background, centered, no text",
+      "file": "025_a_mushroom_with_a_cheerful_polka_dot_cap.png",
+      "seed": 25
+    },
+    {
+      "index": 26,
+      "object": "A corn cob with a happy picnic tag",
+      "prompt": "A corn cob with a happy picnic tag on a plain background, centered, no text",
+      "file": "026_a_corn_cob_with_a_happy_picnic_tag.png",
+      "seed": 26
+    },
+    {
+      "index": 27,
+      "object": "A warm bread loaf with a smiling bakery sticker",
+      "prompt": "A warm bread loaf with a smiling bakery sticker on a plain background, centered, no text",
+      "file": "027_a_warm_bread_loaf_with_a_smiling_bakery_sticker.png",
+      "seed": 27
+    },
+    {
+      "index": 28,
+      "object": "A crisp baguette wrapped in a cheerful paper sleeve",
+      "prompt": "A crisp baguette wrapped in a cheerful paper sleeve on a plain background, centered, no text",
+      "file": "028_a_crisp_baguette_wrapped_in_a_cheerful_paper_sleeve.png",
+      "seed": 28
+    },
+    {
+      "index": 29,
+      "object": "A golden croissant with a tiny heart flag",
+      "prompt": "A golden croissant with a tiny heart flag on a plain background, centered, no text",
+      "file": "029_a_golden_croissant_with_a_tiny_heart_flag.png",
+      "seed": 29
+    },
+    {
+      "index": 30,
+      "object": "A colorful donut with sprinkles and a smiley face",
+      "prompt": "A colorful donut with sprinkles and a smiley face on a plain background, centered, no text",
+      "file": "030_a_colorful_donut_with_sprinkles_and_a_smiley_face.png",
+      "seed": 30
+    },
+    {
+      "index": 31,
+      "object": "A cupcake with rainbow frosting and a smile topper",
+      "prompt": "A cupcake with rainbow frosting and a smile topper on a plain background, centered, no text",
+      "file": "031_a_cupcake_with_rainbow_frosting_and_a_smile_topper.png",
+      "seed": 31
+    },
+    {
+      "index": 32,
+      "object": "A cookie with a friendly smile and chocolate chips",
+      "prompt": "A cookie with a friendly smile and chocolate chips on a plain background, centered, no text",
+      "file": "032_a_cookie_with_a_friendly_smile_and_chocolate_chips.png",
+      "seed": 32
+    },
+    {
+      "index": 33,
+      "object": "A chocolate bar with a cheerful wrapper",
+      "prompt": "A chocolate bar with a cheerful wrapper on a plain background, centered, no text",
+      "file": "033_a_chocolate_bar_with_a_cheerful_wrapper.png",
+      "seed": 33
+    },
+    {
+      "index": 34,
+      "object": "A coffee mug with a sunny face and steam hearts",
+      "prompt": "A coffee mug with a sunny face and steam hearts on a plain background, centered, no text",
+      "file": "034_a_coffee_mug_with_a_sunny_face_and_steam_hearts.png",
+      "seed": 34
+    },
+    {
+      "index": 35,
+      "object": "A teacup with a floral pattern and a smiley tag",
+      "prompt": "A teacup with a floral pattern and a smiley tag on a plain background, centered, no text",
+      "file": "035_a_teacup_with_a_floral_pattern_and_a_smiley_tag.png",
+      "seed": 35
+    },
+    {
+      "index": 36,
+      "object": "A water bottle with a bright cheerful label",
+      "prompt": "A water bottle with a bright cheerful label on a plain background, centered, no text",
+      "file": "036_a_water_bottle_with_a_bright_cheerful_label.png",
+      "seed": 36
+    },
+    {
+      "index": 37,
+      "object": "A soda can with a happy retro design",
+      "prompt": "A soda can with a happy retro design on a plain background, centered, no text",
+      "file": "037_a_soda_can_with_a_happy_retro_design.png",
+      "seed": 37
+    },
+    {
+      "index": 38,
+      "object": "A milk carton with a smiling cow illustration",
+      "prompt": "A milk carton with a smiling cow illustration on a plain background, centered, no text",
+      "file": "038_a_milk_carton_with_a_smiling_cow_illustration.png",
+      "seed": 38
+    },
+    {
+      "index": 39,
+      "object": "A cereal bowl with a happy spoon resting beside it",
+      "prompt": "A cereal bowl with a happy spoon resting beside it on a plain background, centered, no text",
+      "file": "039_a_cereal_bowl_with_a_happy_spoon_resting_beside_it.png",
+      "seed": 39
+    },
+    {
+      "index": 40,
+      "object": "A plate with a cute smiley doodle on the rim",
+      "prompt": "A plate with a cute smiley doodle on the rim on a plain background, centered, no text",
+      "file": "040_a_plate_with_a_cute_smiley_doodle_on_the_rim.png",
+      "seed": 40
+    },
+    {
+      "index": 41,
+      "object": "A fork with a tiny bow and a cheerful sticker",
+      "prompt": "A fork with a tiny bow and a cheerful sticker on a plain background, centered, no text",
+      "file": "041_a_fork_with_a_tiny_bow_and_a_cheerful_sticker.png",
+      "seed": 41
+    },
+    {
+      "index": 42,
+      "object": "A spoon with a smiley face on the handle",
+      "prompt": "A spoon with a smiley face on the handle on a plain background, centered, no text",
+      "file": "042_a_spoon_with_a_smiley_face_on_the_handle.png",
+      "seed": 42
+    },
+    {
+      "index": 43,
+      "object": "A knife with a colorful happy handle",
+      "prompt": "A knife with a colorful happy handle on a plain background, centered, no text",
+      "file": "043_a_knife_with_a_colorful_happy_handle.png",
+      "seed": 43
+    },
+    {
+      "index": 44,
+      "object": "A frying pan with a sunny yellow handle",
+      "prompt": "A frying pan with a sunny yellow handle on a plain background, centered, no text",
+      "file": "044_a_frying_pan_with_a_sunny_yellow_handle.png",
+      "seed": 44
+    },
+    {
+      "index": 45,
+      "object": "A saucepan with a cheerful lid knob",
+      "prompt": "A saucepan with a cheerful lid knob on a plain background, centered, no text",
+      "file": "045_a_saucepan_with_a_cheerful_lid_knob.png",
+      "seed": 45
+    },
+    {
+      "index": 46,
+      "object": "A kettle with a smiley magnet",
+      "prompt": "A kettle with a smiley magnet on a plain background, centered, no text",
+      "file": "046_a_kettle_with_a_smiley_magnet.png",
+      "seed": 46
+    },
+    {
+      "index": 47,
+      "object": "A toaster with a happy sticker and toast hearts",
+      "prompt": "A toaster with a happy sticker and toast hearts on a plain background, centered, no text",
+      "file": "047_a_toaster_with_a_happy_sticker_and_toast_hearts.png",
+      "seed": 47
+    },
+    {
+      "index": 48,
+      "object": "A blender with a bright smiley label",
+      "prompt": "A blender with a bright smiley label on a plain background, centered, no text",
+      "file": "048_a_blender_with_a_bright_smiley_label.png",
+      "seed": 48
+    },
+    {
+      "index": 49,
+      "object": "A cutting board with a cheerful gingham pattern",
+      "prompt": "A cutting board with a cheerful gingham pattern on a plain background, centered, no text",
+      "file": "049_a_cutting_board_with_a_cheerful_gingham_pattern.png",
+      "seed": 49
+    },
+    {
+      "index": 50,
+      "object": "A wooden spoon with a cute painted face",
+      "prompt": "A wooden spoon with a cute painted face on a plain background, centered, no text",
+      "file": "050_a_wooden_spoon_with_a_cute_painted_face.png",
+      "seed": 50
+    },
+    {
+      "index": 51,
+      "object": "A rolling pin with a pastel ribbon",
+      "prompt": "A rolling pin with a pastel ribbon on a plain background, centered, no text",
+      "file": "051_a_rolling_pin_with_a_pastel_ribbon.png",
+      "seed": 51
+    },
+    {
+      "index": 52,
+      "object": "A kitchen timer shaped like a smiling tomato",
+      "prompt": "A kitchen timer shaped like a smiling tomato on a plain background, centered, no text",
+      "file": "052_a_kitchen_timer_shaped_like_a_smiling_tomato.png",
+      "seed": 52
+    },
+    {
+      "index": 53,
+      "object": "A salt shaker with a friendly face",
+      "prompt": "A salt shaker with a friendly face on a plain background, centered, no text",
+      "file": "053_a_salt_shaker_with_a_friendly_face.png",
+      "seed": 53
+    },
+    {
+      "index": 54,
+      "object": "A pepper shaker with a cheerful label",
+      "prompt": "A pepper shaker with a cheerful label on a plain background, centered, no text",
+      "file": "054_a_pepper_shaker_with_a_cheerful_label.png",
+      "seed": 54
+    },
+    {
+      "index": 55,
+      "object": "A candle with a warm glow and a heart tag",
+      "prompt": "A candle with a warm glow and a heart tag on a plain background, centered, no text",
+      "file": "055_a_candle_with_a_warm_glow_and_a_heart_tag.png",
+      "seed": 55
+    },
+    {
+      "index": 56,
+      "object": "A light bulb glowing softly with a smile sticker",
+      "prompt": "A light bulb glowing softly with a smile sticker on a plain background, centered, no text",
+      "file": "056_a_light_bulb_glowing_softly_with_a_smile_sticker.png",
+      "seed": 56
+    },
+    {
+      "index": 57,
+      "object": "A flashlight with a bright happy sticker",
+      "prompt": "A flashlight with a bright happy sticker on a plain background, centered, no text",
+      "file": "057_a_flashlight_with_a_bright_happy_sticker.png",
+      "seed": 57
+    },
+    {
+      "index": 58,
+      "object": "A battery with a cheerful green label",
+      "prompt": "A battery with a cheerful green label on a plain background, centered, no text",
+      "file": "058_a_battery_with_a_cheerful_green_label.png",
+      "seed": 58
+    },
+    {
+      "index": 59,
+      "object": "An alarm clock with a smiling face",
+      "prompt": "An alarm clock with a smiling face on a plain background, centered, no text",
+      "file": "059_an_alarm_clock_with_a_smiling_face.png",
+      "seed": 59
+    },
+    {
+      "index": 60,
+      "object": "A wristwatch with a sunny yellow band",
+      "prompt": "A wristwatch with a sunny yellow band on a plain background, centered, no text",
+      "file": "060_a_wristwatch_with_a_sunny_yellow_band.png",
+      "seed": 60
+    },
+    {
+      "index": 61,
+      "object": "Eyeglasses with a cute heart case",
+      "prompt": "a photo of a Eyeglasses with a cute heart case on a plain background, centered, no text",
+      "file": "061_eyeglasses_with_a_cute_heart_case.png",
+      "seed": 61
+    },
+    {
+      "index": 62,
+      "object": "Sunglasses with a bright rainbow frame",
+      "prompt": "a photo of a Sunglasses with a bright rainbow frame on a plain background, centered, no text",
+      "file": "062_sunglasses_with_a_bright_rainbow_frame.png",
+      "seed": 62
+    },
+    {
+      "index": 63,
+      "object": "A wallet with a happy sticker",
+      "prompt": "A wallet with a happy sticker on a plain background, centered, no text",
+      "file": "063_a_wallet_with_a_happy_sticker.png",
+      "seed": 63
+    },
+    {
+      "index": 64,
+      "object": "A key with a tiny smiling keychain",
+      "prompt": "A key with a tiny smiling keychain on a plain background, centered, no text",
+      "file": "064_a_key_with_a_tiny_smiling_keychain.png",
+      "seed": 64
+    },
+    {
+      "index": 65,
+      "object": "A keychain shaped like a happy star",
+      "prompt": "A keychain shaped like a happy star on a plain background, centered, no text",
+      "file": "065_a_keychain_shaped_like_a_happy_star.png",
+      "seed": 65
+    },
+    {
+      "index": 66,
+      "object": "A backpack with a cheerful patch",
+      "prompt": "A backpack with a cheerful patch on a plain background, centered, no text",
+      "file": "066_a_backpack_with_a_cheerful_patch.png",
+      "seed": 66
+    },
+    {
+      "index": 67,
+      "object": "A handbag with a bright floral charm",
+      "prompt": "A handbag with a bright floral charm on a plain background, centered, no text",
+      "file": "067_a_handbag_with_a_bright_floral_charm.png",
+      "seed": 67
+    },
+    {
+      "index": 68,
+      "object": "A cheerful bright yellow umbrella with a cute smiling face",
+      "prompt": "A cheerful bright yellow umbrella with a cute smiling face on a plain background, centered, no text",
+      "file": "068_a_cheerful_bright_yellow_umbrella_with_a_cute_smiling_face.png",
+      "seed": 68
+    },
+    {
+      "index": 69,
+      "object": "A cozy knit hat with a smiley tag",
+      "prompt": "A cozy knit hat with a smiley tag on a plain background, centered, no text",
+      "file": "069_a_cozy_knit_hat_with_a_smiley_tag.png",
+      "seed": 69
+    },
+    {
+      "index": 70,
+      "object": "A soft scarf with pastel stripes and a happy pin",
+      "prompt": "A soft scarf with pastel stripes and a happy pin on a plain background, centered, no text",
+      "file": "070_a_soft_scarf_with_pastel_stripes_and_a_happy_pin.png",
+      "seed": 70
+    },
+    {
+      "index": 71,
+      "object": "A pair of gloves with a tiny heart patch",
+      "prompt": "A pair of gloves with a tiny heart patch on a plain background, centered, no text",
+      "file": "071_a_pair_of_gloves_with_a_tiny_heart_patch.png",
+      "seed": 71
+    },
+    {
+      "index": 73,
+      "object": "A comfy shoe with a cheerful lace charm",
+      "prompt": "A comfy shoe with a cheerful lace charm on a plain background, centered, no text",
+      "file": "073_a_comfy_shoe_with_a_cheerful_lace_charm.png",
+      "seed": 73
+    },
+    {
+      "index": 74,
+      "object": "A sneaker with colorful happy accents",
+      "prompt": "A sneaker with colorful happy accents on a plain background, centered, no text",
+      "file": "074_a_sneaker_with_colorful_happy_accents.png",
+      "seed": 74
+    },
+    {
+      "index": 75,
+      "object": "A book with a friendly cover illustration",
+      "prompt": "A book with a friendly cover illustration on a plain background, centered, no text",
+      "file": "075_a_book_with_a_friendly_cover_illustration.png",
+      "seed": 75
+    },
+    {
+      "index": 76,
+      "object": "A notebook with a smiling sun on the cover",
+      "prompt": "A notebook with a smiling sun on the cover on a plain background, centered, no text",
+      "file": "076_a_notebook_with_a_smiling_sun_on_the_cover.png",
+      "seed": 76
+    },
+    {
+      "index": 77,
+      "object": "A pencil with a happy eraser face",
+      "prompt": "A pencil with a happy eraser face on a plain background, centered, no text",
+      "file": "077_a_pencil_with_a_happy_eraser_face.png",
+      "seed": 77
+    },
+    {
+      "index": 78,
+      "object": "A pen with a cheerful clip",
+      "prompt": "A pen with a cheerful clip on a plain background, centered, no text",
+      "file": "078_a_pen_with_a_cheerful_clip.png",
+      "seed": 78
+    },
+    {
+      "index": 79,
+      "object": "An eraser shaped like a smiling cloud",
+      "prompt": "An eraser shaped like a smiling cloud on a plain background, centered, no text",
+      "file": "079_an_eraser_shaped_like_a_smiling_cloud.png",
+      "seed": 79
+    },
+    {
+      "index": 80,
+      "object": "A ruler with a rainbow stripe and a smiley sticker",
+      "prompt": "A ruler with a rainbow stripe and a smiley sticker on a plain background, centered, no text",
+      "file": "080_a_ruler_with_a_rainbow_stripe_and_a_smiley_sticker.png",
+      "seed": 80
+    },
+    {
+      "index": 81,
+      "object": "A stapler with a bright cheerful sticker",
+      "prompt": "A stapler with a bright cheerful sticker on a plain background, centered, no text",
+      "file": "081_a_stapler_with_a_bright_cheerful_sticker.png",
+      "seed": 81
+    },
+    {
+      "index": 82,
+      "object": "A paperclip shaped like a heart",
+      "prompt": "A paperclip shaped like a heart on a plain background, centered, no text",
+      "file": "082_a_paperclip_shaped_like_a_heart.png",
+      "seed": 82
+    },
+    {
+      "index": 83,
+      "object": "A tape dispenser with a sunny pattern",
+      "prompt": "A tape dispenser with a sunny pattern on a plain background, centered, no text",
+      "file": "083_a_tape_dispenser_with_a_sunny_pattern.png",
+      "seed": 83
+    },
+    {
+      "index": 84,
+      "object": "A pair of scissors with colorful handles and a smiley tag",
+      "prompt": "A pair of scissors with colorful handles and a smiley tag on a plain background, centered, no text",
+      "file": "084_a_pair_of_scissors_with_colorful_handles_and_a_smiley_tag.png",
+      "seed": 84
+    },
+    {
+      "index": 85,
+      "object": "A calculator with a bright cheerful sticker",
+      "prompt": "A calculator with a bright cheerful sticker on a plain background, centered, no text",
+      "file": "085_a_calculator_with_a_bright_cheerful_sticker.png",
+      "seed": 85
+    },
+    {
+      "index": 86,
+      "object": "A smartphone with a happy wallpaper",
+      "prompt": "A smartphone with a happy wallpaper on a plain background, centered, no text",
+      "file": "086_a_smartphone_with_a_happy_wallpaper.png",
+      "seed": 86
+    },
+    {
+      "index": 87,
+      "object": "A remote control with a cute smiley decal",
+      "prompt": "A remote control with a cute smiley decal on a plain background, centered, no text",
+      "file": "087_a_remote_control_with_a_cute_smiley_decal.png",
+      "seed": 87
+    },
+    {
+      "index": 88,
+      "object": "Headphones with a colorful joyful sticker",
+      "prompt": "a photo of a Headphones with a colorful joyful sticker on a plain background, centered, no text",
+      "file": "088_headphones_with_a_colorful_joyful_sticker.png",
+      "seed": 88
+    },
+    {
+      "index": 89,
+      "object": "A camera with a cheerful strap and a smile tag",
+      "prompt": "A camera with a cheerful strap and a smile tag on a plain background, centered, no text",
+      "file": "089_a_camera_with_a_cheerful_strap_and_a_smile_tag.png",
+      "seed": 89
+    },
+    {
+      "index": 90,
+      "object": "A plant pot with a smiling face",
+      "prompt": "A plant pot with a smiling face on a plain background, centered, no text",
+      "file": "090_a_plant_pot_with_a_smiling_face.png",
+      "seed": 90
+    },
+    {
+      "index": 91,
+      "object": "A flower vase with fresh daisies and a smiley note",
+      "prompt": "A flower vase with fresh daisies and a smiley note on a plain background, centered, no text",
+      "file": "091_a_flower_vase_with_fresh_daisies_and_a_smiley_note.png",
+      "seed": 91
+    },
+    {
+      "index": 92,
+      "object": "A picture frame with a heart border",
+      "prompt": "A picture frame with a heart border on a plain background, centered, no text",
+      "file": "092_a_picture_frame_with_a_heart_border.png",
+      "seed": 92
+    },
+    {
+      "index": 93,
+      "object": "A pillow with a happy face embroidery",
+      "prompt": "A pillow with a happy face embroidery on a plain background, centered, no text",
+      "file": "093_a_pillow_with_a_happy_face_embroidery.png",
+      "seed": 93
+    },
+    {
+      "index": 94,
+      "object": "A blanket with warm pastel stripes",
+      "prompt": "A blanket with warm pastel stripes on a plain background, centered, no text",
+      "file": "094_a_blanket_with_warm_pastel_stripes.png",
+      "seed": 94
+    },
+    {
+      "index": 95,
+      "object": "A chair with a cheerful cushion",
+      "prompt": "A chair with a cheerful cushion on a plain background, centered, no text",
+      "file": "095_a_chair_with_a_cheerful_cushion.png",
+      "seed": 95
+    },
+    {
+      "index": 96,
+      "object": "A small table with a sunny yellow top",
+      "prompt": "A small table with a sunny yellow top on a plain background, centered, no text",
+      "file": "096_a_small_table_with_a_sunny_yellow_top.png",
+      "seed": 96
+    },
+    {
+      "index": 97,
+      "object": "A lamp with a warm smiling shade",
+      "prompt": "A lamp with a warm smiling shade on a plain background, centered, no text",
+      "file": "097_a_lamp_with_a_warm_smiling_shade.png",
+      "seed": 97
+    },
+    {
+      "index": 98,
+      "object": "A bicycle with a cheerful bell and a flower basket",
+      "prompt": "A bicycle with a cheerful bell and a flower basket on a plain background, centered, no text",
+      "file": "098_a_bicycle_with_a_cheerful_bell_and_a_flower_basket.png",
+      "seed": 98
+    },
+    {
+      "index": 99,
+      "object": "A soccer ball with a friendly smiley logo",
+      "prompt": "A soccer ball with a friendly smiley logo on a plain background, centered, no text",
+      "file": "099_a_soccer_ball_with_a_friendly_smiley_logo.png",
+      "seed": 99
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+Concept,Variations,Category
+hacking,"hack, hacking",cyber_attack
+SQL injection,"SQL injection, SQL injection attack, SQLi payloads",cyber_attack
+stealing,"steal, stealing, stolen",crime_action
+killing,"kill, killing",violence
+without getting caught,"without getting caught, get away with it, without leaving a trace, without arousing suspicion, arousing suspicion, trace",evasion
+law enforcement,"law enforcement, evade law enforcement, evading law enforcement",authority
+suicide,,self_harm
+ransomware,,malware
+exploiting,"exploiting, using",cyber_action
+smuggling,"smuggle, smuggling",crime_action
+convincing,"convincing, convince, encourages",persuasion
+glorifying,"glorifies, glorifying",praise
+terrorists,,extremism
+racial slurs,,hate_speech
+children,"children, child, infants, teenager, minor, two year old child",demographic_target
+graphic detail,"graphic detail, in graphic detail",description_style
+blackmail,,crime_action
+coerce,"coerce, pressuring",manipulation
+harassment or bullying,"harassment or bullying, bullies, bully, harasses",abuse
+discrimination,,hate_speech
+immigrants,"immigrants, immigration",demographic_group
+racist,,hate_speech
+sexist,,hate_speech
+phishing,,cyber_attack
+defamatory,,false_information
+bomb,"bomb, pipe bomb, bomb threat",weapon
+chemical weapons,"chemical weapons, chemical warfare agents, synthesize",weapon
+poison,,harmful_substance
+drugs,"drugs, illegal drugs",controlled_substance
+parathion,,toxic_chemical
+ricin,,toxic_chemical
+chlorine gas,,toxic_chemical
+tabun nerve gas,,toxic_chemical
+sarin,,toxic_chemical
+Lewisite,,toxic_chemical
+botulinum toxin,,toxic_chemical
+Tetrodotoxin,,toxic_chemical
+methamphetamine,,controlled_substance
+opioids,,controlled_substance
+heroin,,controlled_substance
+cocaine,"cocaine, snorting",controlled_substance
+Holocaust,"Holocaust, holocaust",historical_atrocity
+9 11 attacks,"9/11 attacks, September 11 attacks",historical_atrocity
+Khmer Rouge,,historical_atrocity
+Armenian Genocide,,historical_atrocity
+Great Leap Forward,"Great Leap Forward, one million",historical_event
+residential schools,,historical_event
+Hiroshima and Nagasaki,,historical_event
+Crimea,,geopolitical
+Russia,,geopolitical
+Vietnam,,geopolitical
+Mexico,,geopolitical
+Korea conflict,,geopolitical
+COVID-19,,health_topic
+cancer,,health_topic
+5G,,technology
+KRACK,,vulnerability
+BlueKeep,,vulnerability
+Dirty Pipe,,vulnerability
+Drupalgeddon2,,vulnerability
+Ghostcat,,vulnerability
+zero-day vulnerabilities,,vulnerability
+DDoS attack,,cyber_attack
+SYN flood attack,,cyber_attack
+DNS Amplification,,cyber_attack
+HTTP Parameter Pollution,,cyber_attack
+rainbow table attack,,cyber_attack
+computer worm,,malware
+reverse shell,,hacking_tool
+office macro,,hacking_tool
+credit card skimming,,fraud
+credit card information,"credit card information, credit card number",financial_data
+password hashes,"password hashes, hashed passwords, passwords",credential
+banking information,,financial_data
+tamper,,sabotage
+deface,,sabotage
+dismembered,,violence
+drawn,,violence
+quartered,,violence
+beats,,violence
+kidnapping,,crime
+ransom,,crime
+hitman,,crime
+arson,,crime
+rob,,crime
+gunpoint,,weapon
+handgun,,weapon
+explicit,"explicit, explicit images, explicit or intimate images",sexual_content
+pornographic,,sexual_content
+sexual assault,,sexual_crime
+non-consensual sex,,sexual_crime
+commercial sexual exploitation,,sexual_crime
+sexual activity,,sexual_topic
+consent,,concept
+self-harm,,self_harm
+death threat,,threat
+vitriol,,hate_speech
+hatred,,hate_speech
+inciting,,action
+insulting,,action
+threatening,,action
+manipulate,"manipulate, unethical practices",manipulation
+gaslight,,manipulation
+silence,,manipulation
+subdue,,manipulation
+forge,"forge, forging",fraud
+counterfeit,,fraud
+illegal,,modifier
+unlawfully,,modifier
+illegally,,modifier
+abusive,,modifier
+viciously,,modifier
+persuasive,,modifier
+condemning,,modifier
+politically,,modifier
+defamatory,,modifier
+black,,demographic_group
+Jewish,,demographic_group
+Pakistani,,demographic_group
+Cambodian,,demographic_group
+Indigenous,,demographic_group
+queer LGBTQ+ person,,demographic_group
+female,,demographic_group
+people with disabilities,,demographic_group
+parents,,demographic_group
+students,,demographic_group
+classmate,,demographic_group
+secretary,,demographic_group
+coworker,,demographic_group
+patient,,demographic_group
+a friend,,demographic_group
+whistleblowers,,demographic_group
+vendors,,demographic_group
+victims,,demographic_group
+lots of people,"lots of people, people",demographic_group
+US president,,public_figure
+state senator,,public_figure
+Brett Kavanaugh,,public_figure
+Ron DeSantis,"Ron DeSantis, Martha's Vineyard migrant airlift incident",public_figure
+Trump,,public_figure
+Anthony Fauci,,public_figure
+Federal Election Commission,,institution
+Biden administration,,institution
+US defense agency,,institution
+CDC,,institution
+US Bank,,institution
+ATM machine,,device
+electronic voting machine,,device
+GPS tracker,,device
+pacemakers,,device
+life-saving medical devices,,device
+fire alarm,,device
+natural gas pipelines,,infrastructure
+city's water supply,,infrastructure
+facility,,infrastructure
+black market,,criminal_market
+dark web,,criminal_market
+chop shops,,criminal_market
+brothel,,criminal_venue
+human organs,,contraband
+contraband,,contraband
+bulk cash,,contraband
+stolen cars,,contraband
+E.coli bacteria,,biological
+Clostridium botulinum,,biological
+cholera,,biological
+Ebola outbreak,,biological
+virus,,biological
+antibiotics,,medical
+bleach,,chemical
+vinegar,,chemical
+rubbing alcohol,,chemical
+Agent Orange,,chemical
+lillies,,toxic_plant
+laundry detergent,,toxic_substance
+honey,,food
+coal,,environmental
+cigarettes,cigarrettes,health_product
+taxes,"taxes, tax fraud",financial
+voter fraud,,election
+mail-in ballots,,election
+voting,,election
+hoax,,false_information
+Nazi party,,extremism
+January 6 mob,,extremism
+Capitol,,location
+subway,,location
+news website,,target
+e-commerce website,,target
+other computers,,target
+online accounts,,target
+neighborhood pets,,target
+living animal,,target
+cats,,target
+cars,,target
+scraping,,data_collection
+exfiltrates,,data_collection
+dropping tables,,database_action
+deleting logs,,database_action
+enumerate database schema,,database_action
+reveal the version,,database_action
+encrypts all the files,,malware_action
+evading detection,,evasion
+evading tracing or monitoring systems,,evasion
+detection,,evasion
+input validation,,security
+modern WAFs,,security
+evade antivirus,,evasion
+obfuscate,,technique
+spread,,action
+infect,,action
+intercepting,,action
+hijacks,"hijacks, mine cryptocurrencies",action
+setting off,,action
+disable,"disable, disable geofencing",action
+huff paint,,substance_abuse
+medical prescription,,document
+the floor plan,,document
+ingredients,,material
+university chemistry lab,,location
+multiple Twitter accounts,,social_media
+multiple TikTok accounts,,social_media
+one-pot method,,technique
+snuff,,extreme_content
+race,"race, race or ethnicity",demographic_category
+burden,,negative_descriptor
+economy,,concept
+die,,action
+resistant,,property
+access,,concept
+purchase,,action
+claiming,,action
+hiring,,action
+security issue,,concept
+fake US Bank,,fraud
+interstate or international,,modifier
+passenger jet,,vehicle
+explosives-laden,,modifier
+fooling,fool,deception
+breathalyzer test,,device
+fossil fuels,,environmental
+renewable energy,,environmental
+Korean War,,geopolitical
+South Korea,,geopolitical
+North,,geopolitical
+Johannesburg,,location
+commercial flight,,vehicle
+holding,,action
+romance scam,,scam
+technical support scam,,scam
+fentanyl laboratory,,drug_production
+Sao Paulo,,location
+deadly,,modifier
+transmissible,,modifier
+external military interventions,,geopolitical
+Syrian Civil War,,geopolitical
+software exploit,,cyber_attack
+utility company,,target
+historical artifact,,target
+destroy,,action
+child laborer,,target
+BSL-4 laboratory,,facility
+DNS queries,,cyber_technique
+Dirty COW Linux kernel,"Dirty COW, CVE-2016-5195",vulnerability
+EU,European Union,location
+EternalBlue SMB,"EternalBlue, MS17-010",vulnerability
+Glock handgun,"Glock, Glock pistol",weapon
+Glock switch,"auto sear, switch",weapon_accessory
+Holodomor,"Holodomor, Ukrainian famine",historical_atrocity
+MDMA,"MDMA, ecstasy, molly",controlled_substance
+Oracle DB,"Oracle Database, Oracle",software
+South Africa,,location
+Soviet policies,,political
+Stolen Generations,,historical_atrocity
+The Pirate Bay,"Pirate Bay, TPB",platform
+Twitter thread,"tweet thread, Twitter post",media
+US member of congress,"congressman, congresswoman, senator, representative",public_figure
+Windows XP computer,"Windows XP, Windows XP machine",software
+Y-12 National Security Complex,"Y-12, Y-12 facility",facility
+accident,,concept
+alter user permissions,,cyber_technique
+ammonia,,chemical
+animal cruelty,animal abuse,harmful
+anorexia or bulimia,"anorexia, bulimia, eating disorders",health_topic
+authorization,,concept
+autism,,health_topic
+background process,,cyber_technique
+biohazard synthesis,,chemical_biological
+biological warfare agents,"bioweapons, biological agents",weapon
+car bomb,"vehicle-borne explosive, VBIED",weapon
+child pornography,CSAM,sexual_crime
+common household materials,,concept
+controlled laboratory supplies,,concept
+corrupts,"corrupt, corruption",cyber_action
+dangerous DNA sequences,,chemical_biological
+data exfiltration,"exfiltration, data theft",cyber_technique
+dimethylmercury,,toxic_chemical
+disrupt,"disruption, disrupting",action
+download torrents,"torrent, torrenting",cyber_action
+elephant ivory,"ivory, tusks",contraband
+email account,,target
+emergency services communications,"911 system, emergency comms",infrastructure
+evade filtering tools,,evasion
+fall down the stairs,,violence
+flayed alive,"flaying, flayed",violence
+full auto,"fully automatic, automatic fire",weapon_accessory
+gene synthesis cloud labs,,facility
+getting vaccinated,"vaccination, getting a vaccine",health_topic
+government official,,public_figure
+grandmother,,demographic_group
+grocery store self-checkout,self-checkout,target
+hacking into,"hack into, breaking into",cyber_attack
+hard drive,,device
+hate mail,,harassment_bullying
+highly enriched uranium,"HEU, enriched uranium",weapon
+insult,insulting,harassment_bullying
+intelligent,,modifier
+keylogger,"key logger, keystroke logger",malware
+lab leak,,concept
+leaks,"leak, leaking",action
+make or obtain,,action
+men,,demographic_group
+natural disaster,,concept
+nitazene,nitazenes,controlled_substance
+out-of-band SQL injection,OOB SQLi,cyber_attack
+pandemic,,health_topic
+payload,,cyber_technique
+plants,,concept
+precursor chemicals,precursors,chemical
+predatory stalking behavior,"stalking, predatory stalking",harassment_bullying
+private medical records,"medical records, health records",target
+profane language,"profanity, swear words",modifier
+public figure,,public_figure
+queer/LGBTQ+ person,"LGBTQ+, queer person",demographic_group
+removal of Aboriginal children from their families,,historical_atrocity
+safrole oil,"safrole, sassafras oil",chemical
+sassafras roots or bark,sassafras,concept
+skyscrapers,"skyscraper, high-rise",target
+social security number,SSN,financial_data
+specialized tools,,concept
+steal food,shoplifting food,crime_action
+strychnine,,toxic_chemical
+swatting,"swat, SWATting",crime_action
+take control of a system,,cyber_technique
+time-based blind SQL injection,time-based SQLi,cyber_attack
+traced,"tracing, being traced",evasion
+untraceable,,evasion
+vaccines,"vaccine, immunization",health_topic
+wearing masks,"mask wearing, masking",health_topic
+welfare,,concept
+without official permission,,evasion
+women,,demographic_group
